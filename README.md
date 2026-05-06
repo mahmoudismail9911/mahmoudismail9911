@@ -1,56 +1,67 @@
-# Hi, I'm [Mahmoud Metawea]
+# Mahmoud Metawea
 
-Data Analyst with 6+ years of experience in BPO and contact center operations across Cairo and Dubai.
-Currently building analytics projects focused on operational reporting, KPI analysis, SQL development, and business intelligence.
+**Operations Reporting & MIS Analyst — Dubai, UAE**
 
----
+I build reporting functions from scratch. Joining environments with fragmented or
+manual processes and leaving them with automated, audit-ready systems that operations
+and leadership teams actually use.
 
-## Skills
-
-* SQL Server / T-SQL
-* Power BI
-* Excel & Power Query
-* Data Cleaning & Transformation
-* KPI Reporting & Dashboarding
-* Operational Analytics
-* Contact Center Performance Analysis
+6+ years across BPO and contact centre analytics in Cairo and Dubai, working with
+teams of up to 5,000 employees across large-scale operations.
 
 ---
 
-## Current Projects
+## Tools
 
-### Call Center Analytics Portfolio
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
-End-to-end analytics project built around a simulated UAE telecom contact centre dataset.
+**SQL Server / T-SQL** — queries, CTEs, window functions, stored procedures, indexing
 
-Includes:
+**Power BI** — DAX, data modelling, operational dashboards, KPI tracking
 
-* SQL database design and KPI analysis
-* Power BI dashboarding
-* Excel reporting and data cleaning
-
-Tech stack:
-
-* SQL Server
-* Power BI
-* Excel
+**Excel** — VBA automation, Power Query, pivot analysis, reconciliation templates
 
 ---
 
-## What I’m Working On
+## Portfolio
 
-* Advanced SQL analytics projects
-* Power BI dashboard development
-* Portfolio projects based on real operational reporting scenarios
+### 📊 Call Center Analytics
+> SQL Server · Power BI · Excel — all three projects built on the same operational dataset
+
+A simulated UAE telecom contact centre — 12,000 call records, star schema, 15 months of data.
+Each project demonstrates a different layer of the analytics workflow using the same underlying database.
+
+| Project | Status |
+|---------|--------|
+| SQL — database build, 8 analysis queries, stored procedure | ✅ Complete |
+| Power BI — operational KPI dashboard | 🔄 In Progress |
+| Excel — data cleaning and pivot analysis | 🔄 In Progress |
+
+🔗 [View Repository](https://github.com/M-Metawea/call-center-analytics)
 
 ---
 
-## Background
+## What I've Built Professionally
 
-My experience comes from working directly in customer operations environments, which helps me approach analytics from a business and operational perspective — not just a technical one.
+**Cupola — Dubai** *(2025 – Present)*
+Built the MIS reporting function from zero — dashboards, templates, validation processes,
+and governance structures. Introduced daily consolidated reporting, reduced timesheet
+reconciliation from 2–3 days to 2 hours, and introduced risk and quality analysis reports
+that gave leadership company-wide project visibility for the first time.
+Recognised with the High Achiever Award by the CCO and CSO.
+
+**Xceed — Cairo** *(2019 – 2025)*
+Progressed from Customer Service Representative through Quality Analyst to Decision Support
+Analyst. Delivered performance reporting for 5,000+ employees across multiple BPO clients.
+Built a two-stage VBA automation pipeline — a master macro covering 9 report types across
+6+ clients, paired with an Outlook macro that auto-distributed reports, reducing the daily
+reporting cycle to a single click.
 
 ---
 
 ## Connect
 
-* LinkedIn: https://www.linkedin.com/in/m-metawea/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/M-Metawea)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mahmoudismail9911@gmail.com)
