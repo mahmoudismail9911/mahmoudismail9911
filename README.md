@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm [Mahmoud Metawea]
 
-<!--
-**mahmoudismail9911/mahmoudismail9911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst with 6+ years of experience in BPO and contact center operations across Cairo and Dubai.
+Currently building analytics projects focused on operational reporting, KPI analysis, SQL development, and business intelligence.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+* SQL Server / T-SQL
+* Power BI
+* Excel & Power Query
+* Data Cleaning & Transformation
+* KPI Reporting & Dashboarding
+* Operational Analytics
+* Contact Center Performance Analysis
+
+---
+
+## Current Projects
+
+### Call Center Analytics Portfolio
+
+End-to-end analytics project built around a simulated UAE telecom contact centre dataset.
+
+Includes:
+
+* SQL database design and KPI analysis
+* Power BI dashboarding
+* Excel reporting and data cleaning
+
+Tech stack:
+
+* SQL Server
+* Power BI
+* Excel
+
+---
+
+## What I’m Working On
+
+* Advanced SQL analytics projects
+* Power BI dashboard development
+* Portfolio projects based on real operational reporting scenarios
+
+---
+
+## Background
+
+My experience comes from working directly in customer operations environments, which helps me approach analytics from a business and operational perspective — not just a technical one.
+
+---
+
+## Connect
+
+* LinkedIn: https://www.linkedin.com/in/m-metawea/
