@@ -47,8 +47,7 @@ Each project demonstrates a different layer of the analytics workflow using the 
 
 **Cupola — Dubai** *(2025 – Present)*
 Built the MIS reporting function from zero — dashboards, templates, validation processes,
-and governance structures. Introduced daily consolidated reporting, reduced timesheet
-reconciliation from 2–3 days to 2 hours, and introduced risk and quality analysis reports
+and governance structures. Introduced daily consolidated reporting, introduced risk and quality analysis reports
 that gave leadership company-wide project visibility for the first time.
 Recognised with the High Achiever Award by the CCO and CSO.
 
