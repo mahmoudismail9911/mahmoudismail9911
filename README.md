@@ -39,7 +39,7 @@ Each project demonstrates a different layer of the analytics workflow using the 
 | Power BI — operational KPI dashboard | 🔄 In Progress |
 | Excel — data cleaning and pivot analysis | 🔄 In Progress |
 
-🔗 [View Repository](https://github.com/M-Metawea/call-center-analytics)
+🔗 [View Repository](https://github.com/mahmoudismail9911/call-center-analytics))
 
 ---
 
