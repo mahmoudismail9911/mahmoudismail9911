@@ -6,7 +6,7 @@ I build reporting functions from scratch. Joining environments with fragmented o
 manual processes and leaving them with automated, audit-ready systems that operations
 and leadership teams actually use.
 
-6+ years across BPO and contact centre analytics in Cairo and Dubai, working with
+7+ years across BPO and contact centre analytics in Cairo and Dubai, working with
 teams of up to 5,000 employees across large-scale operations.
 
 ---
