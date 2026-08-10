@@ -1,5 +1,4 @@
 # Mahmoud Metawea
-
 **Operations Reporting & MIS Analyst — Dubai, UAE**
 
 I build reporting functions from scratch. Joining environments with fragmented or
@@ -15,31 +14,22 @@ teams of up to 5,000 employees across large-scale operations.
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 **SQL Server / T-SQL** — queries, CTEs, window functions, stored procedures, indexing
-
 **Power BI** — DAX, data modelling, operational dashboards, KPI tracking
-
-**Excel** — VBA automation, Power Query, pivot analysis, reconciliation templates
 
 ---
 
 ## Portfolio
 
 ### 📊 Call Center Analytics
-> SQL Server · Power BI · Excel — all three projects built on the same operational dataset
+> SQL Server — star schema, KPI queries, stored procedures
 
-A simulated UAE telecom contact centre — 12,000 call records, star schema, 15 months of data.
-Each project demonstrates a different layer of the analytics workflow using the same underlying database.
+A simulated UAE telecom contact centre — 12,000 call records, star schema,
+15 months of data. Full database build, 8 analysis queries, target variance
+reporting, and a parameterised stored procedure.
 
-| Project | Status |
-|---------|--------|
-| SQL — database build, 8 analysis queries, stored procedure | ✅ Complete |
-| Power BI — operational KPI dashboard | 🔄 In Progress |
-| Excel — data cleaning and pivot analysis | 🔄 In Progress |
-
-🔗 [View Repository](https://github.com/mahmoudismail9911/call-center-analytics))
+🔗 [View Repository](https://github.com/mahmoudismail9911/call-center-analytics)
 
 ---
 
