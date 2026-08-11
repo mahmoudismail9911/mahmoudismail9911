@@ -14,13 +14,26 @@ teams of up to 5,000 employees across large-scale operations.
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 **SQL Server / T-SQL** — queries, CTEs, window functions, stored procedures, indexing
 **Power BI** — DAX, data modelling, operational dashboards, KPI tracking
+**Excel** — VBA automation, Power Query, pivot analysis, reconciliation templates
 
 ---
 
 ## Portfolio
+
+### 🏙️ Dubai Real Estate Transactions Dashboard
+> Power BI · Power Query (M) · DAX
+
+End-to-end Power BI dashboard analysing ~1.75M Dubai Land Department transaction
+records. Star schema data model, 25+ DAX measures, geographic and time-based
+analysis, drill-through and custom tooltip pages, and extensive data quality
+remediation. Optimised the model from 1GB+ of raw source data down to a ~57.5MB
+deployable file.
+
+🔗 [View Repository](https://github.com/mahmoudismail9911/dubai-real-estate-analytics) · [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTg1NzAxM2MtNWY5Ni00OWZiLThlMjctNzIzZmZjZjk2OTE4IiwidCI6ImZjY2ExNDBiLWQwMzItNDhlMC1hMTc0LTZkYjNhNTkxOWZlMyIsImMiOjh9)
 
 ### 📊 Call Center Analytics
 > SQL Server — star schema, KPI queries, stored procedures
